@@ -80,6 +80,6 @@ install_from_swirl("Statistical Inference")
 install_from_swirl("Exploratory Data Analysis")
 
 
-
+### END CHAPTER
 
 
